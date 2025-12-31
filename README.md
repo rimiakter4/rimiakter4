@@ -39,13 +39,6 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)
 
 ---
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimiakter4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimia9941@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%230075FF?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801748806941)
-[![Location](https://img.shields.io/badge/Location-Dhaka-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Dhaka,+Bangladesh)
 
 ## 🌐 Connect with Me
 - 💼 GitHub:https://github.com/rimiakter4
