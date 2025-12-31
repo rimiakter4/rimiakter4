@@ -102,9 +102,10 @@
 #### 💻 Installation
 
 git clone https://github.com/rimiakter4/germany-factory-client.git
-cd germany-factory-client
-npm install
-npm start
+
+-cd germany-factory-client
+-npm install
+-npm start
 2️⃣ Germany Factory Server
 Description: Backend of Germany Factory Management System with Node.js and MongoDB. Handles API requests, authentication, and database operations.
 
