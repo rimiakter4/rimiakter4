@@ -43,8 +43,8 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 ## 🌐 Connect with Me
 - 💼 GitHub:https://github.com/rimiakter4
 - 🔗 LinkedIn: https://linkedin.com/in/yourprofile
-- 📧 Email:
-- 📞 Phone: +8801XXXXXXXXX
+- 📧 Email:rimia9941@gmail.com
+- 📞 Phone:01748806941
 - 📍 Location: Dhaka, Bangladesh
 
 ---
