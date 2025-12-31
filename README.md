@@ -103,18 +103,25 @@
 
 git clone https://github.com/rimiakter4/germany-factory-client.git
 
--cd germany-factory-client
--npm install
--npm start
+cd germany-factory-client
+
+npm install
+
+npm start
+
 2️⃣ Germany Factory Server
 Description: Backend of Germany Factory Management System with Node.js and MongoDB. Handles API requests, authentication, and database operations.
 
 💻 Installation
 bash
 Copy code
+
 git clone https://github.com/rimiakter4/germany-factory-server.git
+
 cd germany-factory-server
+
 npm install
+
 npm start
 
 ---
@@ -125,7 +132,7 @@ npm start
 
 #### 🖥️ Project Preview
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Travelease+Project+Preview" alt="Travelease Preview" width="50%" style="border-radius: 15px; border: 1px solid #ddd;" />
+  <img src="https://i.ibb.co.com/MDK7Bdvx/Screenshot-2025-12-31-141523.png" />
 </p>
 
 **Technologies Used:**  
