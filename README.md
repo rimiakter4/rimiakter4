@@ -4,7 +4,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/v6j9SmJ4/Remi-Akter.png" alt="Remi Akter Banner" width="400"/>
+  <img src="https://i.ibb.co.com/v6j9SmJ4/Remi-Akter.png" alt="Remi Akter Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Remi Akter</h1>
