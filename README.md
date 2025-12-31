@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/Cfcjjp8/github-banner-image-for-web-developer-themes.jpg" />
+  <img src="https://i.ibb.co.com/v6j9SmJ4/Remi-Akter.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Remi Akter</h1>
