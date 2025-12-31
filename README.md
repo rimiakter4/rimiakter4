@@ -50,19 +50,7 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 - 📍 Location: Dhaka, Bangladesh
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimiakter4&show_icons=true&theme=radical&count_private=true" alt="rimiakter4's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimiakter4&layout=compact&theme=radical" alt="rimiakter4's top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimiakter4&theme=radical" alt="rimiakter4's streak" />
-</p>
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -76,3 +64,22 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yourusername" />
 </p>
+
+## 📌 Pinned Repositories
+
+### 1️⃣ Tourism Website
+**Description:** Responsive tourism website with interactive UI to explore destinations.  
+**Live Demo:** [Visit Site](https://your-tourism-site.netlify.app)  
+**Technologies Used:** React.js, Tailwind CSS, JavaScript, HTML5, CSS3  
+
+#### Features
+- Responsive design for desktop & mobile  
+- Searchable destinations  
+- Smooth navigation & interactive UI  
+
+#### Installation
+```bash
+git clone https://github.com/rimiakter4/tourism-website.git
+cd tourism-website
+npm install
+npm start
