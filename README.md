@@ -4,7 +4,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Remi Akter</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Junior MERN Stack Web Developer
+</h3>
 
 ---
 
