@@ -17,13 +17,7 @@ Currently, I am pursuing my undergraduate studies in Computer Science and Engine
 I enjoy creating impactful web solutions and continuously improving my skills in backend development, especially with Express.js, while exploring new tools and technologies in the MERN ecosystem.  
 I am focused on improving my skills in Express.js and exploring new backend tools.
 
-## 🙋‍♀️ About Me
 
-I am a MERN Stack Web Developer with hands-on experience in building responsive and user-friendly full-stack web applications using MongoDB, React, and Node.js.  
-I started my web development journey through **Programming Hero**, where I gained practical experience building real-world projects.  
-Currently, I am pursuing my undergraduate studies in Computer Science and Engineering (CSE) at Uttara University.  
-I enjoy creating impactful web solutions and continuously improving my skills in backend development, especially with Express.js, while exploring new tools and technologies in the MERN ecosystem.  
-I am focused on improving my skills in Express.js and exploring new backend tools.
 ---
 
 ## 🚀 Current Activities
