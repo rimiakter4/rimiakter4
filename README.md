@@ -65,21 +65,38 @@ I am focused on improving my skills in Express.js and exploring new backend tool
   <img src="https://streak-stats.demolab.com/?user=yourusername" />
 </p>
 
-## 📌 Pinned Repositories
+📌 Pinned Repositories
+1️⃣ Germent Factory Management System
 
-### 1️⃣ Tourism Website
-**Description:** Responsive tourism website with interactive UI to explore destinations.  
-**Live Demo:** [Visit Site](https://your-tourism-site.netlify.app)  
-**Technologies Used:** React.js, Tailwind CSS, JavaScript, HTML5, CSS3  
+Description: Full-stack responsive web application for a Germent factory with role-based access for Admin, Manager, and User.
+Live Demo: Visit Site
 
-#### Features
-- Responsive design for desktop & mobile  
-- Searchable destinations  
-- Smooth navigation & interactive UI  
 
-#### Installation
+**Live Demo:** [Visit Site](https://your-germany-factory-site.netlify.app)  
+
+**Technologies Used:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" alt="Technologies"/>
+</p>
+
+#### 🔹 Features
+- **Role-Based Access Control:** Admin, Manager, and User  
+- **Admin Features:**  
+  - Manage users and roles  
+  - Oversee factory operations  
+  - Generate reports and analytics  
+- **Manager Features:**  
+  - Manage team tasks and assignments  
+  - Track production and inventory  
+  - Approve or reject requests from Users  
+- **User Features:**  
+  - View assigned tasks  
+  - Submit production reports  
+  - Access relevant factory data  
+
+#### 💻 Installation
 ```bash
-git clone https://github.com/rimiakter4/tourism-website.git
-cd tourism-website
+git clone https://github.com/rimiakter4/germany-factory-website.git
+cd germany-factory-website
 npm install
 npm start
