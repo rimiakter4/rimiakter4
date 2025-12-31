@@ -40,7 +40,7 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 
 #### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" width='400px'/>
 </p>
 
 #### 🛠 Tools & Platforms
