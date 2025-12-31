@@ -65,20 +65,19 @@ I am focused on improving my skills in Express.js and exploring new backend tool
   <img src="https://streak-stats.demolab.com/?user=yourusername" />
 </p>
 
-📌 Pinned Repositories
-1️⃣ Germent Factory Management System
-
-Description: Full-stack responsive web application for a Germent factory with role-based access for Admin, Manager, and User.
-Live Demo: Visit Site
 
 
-**Live Demo:** [Visit Site](https://your-germany-factory-site.netlify.app)  
+
+## 📌 Pinned Repositories
+
+### 1️⃣ Germany Factory Client
+**Description:**Full-stack responsive web application for a Germent factory with role-based access for Admin, Manager, and User.
+**Live Demo:** [Visit Client Site](https://your-client-site.netlify.app)  
 
 **Technologies Used:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" alt="Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" alt="Client Tech"/>
 </p>
-
 #### 🔹 Features
 - **Role-Based Access Control:** Admin, Manager, and User  
 - **Admin Features:**  
@@ -96,16 +95,6 @@ Live Demo: Visit Site
 
 
 
-## 📌 Pinned Repositories
-
-### 1️⃣ Germany Factory Client
-**Description:** Frontend of Germany Factory Management System built with React.js and Tailwind CSS.  
-**Live Demo:** [Visit Client Site](https://your-client-site.netlify.app)  
-
-**Technologies Used:**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" alt="Client Tech"/>
-</p>
 
 #### 💻 Installation
 ```bash
@@ -114,11 +103,11 @@ cd germany-factory-client
 npm install
 npm start
 2️⃣ Germany Factory Server
-Description: Backend of Germany Factory Management System with Node.js, Express.js, and MongoDB. Handles API requests, authentication, and database operations.
+Description: Backend of Germany Factory Management System with Node.js and MongoDB. Handles API requests, authentication, and database operations.
 
-Technologies Used:
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Server Tech"/> </p>
+
+
 💻 Installation
 bash
 Copy code
