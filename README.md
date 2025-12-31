@@ -73,10 +73,7 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 ### 1️⃣ Germany Factory Client
 **Description:**  Full-stack responsive web application for a Germent factory with role-based access for Admin, Manager, and User.  
 **Live Demo:**  https://germents-factory.web.app/
-#### 🖥️ Project Preview
-<p align="center">
-  <img src="https://i.ibb.co.com/FLHvBq13/Screenshot-2025-12-31-095005.png" alt="Project Preview" width="100%" />
-</p>
+
 #### 🖥️ Project Preview
 <p align="center">
   <img src="https://i.ibb.co.com/FLHvBq13/Screenshot-2025-12-31-095005.png" 
