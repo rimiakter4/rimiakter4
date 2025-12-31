@@ -77,6 +77,13 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 <p align="center">
   <img src="https://i.ibb.co.com/FLHvBq13/Screenshot-2025-12-31-095005.png" alt="Project Preview" width="100%" />
 </p>
+#### 🖥️ Project Preview
+<p align="center">
+  <img src="https://i.ibb.co.com/FLHvBq13/Screenshot-2025-12-31-095005.png" 
+       alt="Project Preview" 
+       width="80%" 
+       style="border-radius: 15px; border: 1px solid #ddd;" />
+</p>
 **Technologies Used:**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,mongodb" alt="Client Tech"/>
