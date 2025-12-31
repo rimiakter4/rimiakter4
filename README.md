@@ -50,18 +50,19 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 - 📍 Location: Dhaka, Bangladesh
 
 ---
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rimiakter4&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimiakter4&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yourusername" />
+  <img src="https://streak-stats.demolab.com/?user=rimiakter4" />
 </p>
-
 
 ## 📊 GitHub Stats
 
