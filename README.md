@@ -129,10 +129,12 @@ npm start
 ### 3️⃣ Travelease (Travel Management System)
 **Description:** A comprehensive travel management platform where users can explore tour packages, make bookings, and manage their travel plans seamlessly.  
 **Live Demo:** [Insert Your Live Link Here]
-
 #### 🖥️ Project Preview
 <p align="center">
-  <img src="https://i.ibb.co.com/MDK7Bdvx/Screenshot-2025-12-31-141523.png" />
+  <img src="https://i.ibb.co.com/MDK7Bdvx/Screenshot-2025-12-31-141523.png" 
+       alt="Project Preview" 
+       width="50%" 
+       style="border-radius: 15px; border: 1px solid #ddd;" />
 </p>
 
 **Technologies Used:**  
