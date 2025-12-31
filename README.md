@@ -94,9 +94,38 @@ Live Demo: Visit Site
   - Submit production reports  
   - Access relevant factory data  
 
+
+
+## 📌 Pinned Repositories
+
+### 1️⃣ Germany Factory Client
+**Description:** Frontend of Germany Factory Management System built with React.js and Tailwind CSS.  
+**Live Demo:** [Visit Client Site](https://your-client-site.netlify.app)  
+
+**Technologies Used:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" alt="Client Tech"/>
+</p>
+
 #### 💻 Installation
 ```bash
-git clone https://github.com/rimiakter4/germany-factory-website.git
-cd germany-factory-website
+git clone https://github.com/rimiakter4/germany-factory-client.git
+cd germany-factory-client
 npm install
 npm start
+2️⃣ Germany Factory Server
+Description: Backend of Germany Factory Management System with Node.js, Express.js, and MongoDB. Handles API requests, authentication, and database operations.
+
+Technologies Used:
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Server Tech"/> </p>
+💻 Installation
+bash
+Copy code
+git clone https://github.com/rimiakter4/germany-factory-server.git
+cd germany-factory-server
+npm install
+npm start
+
+
+
