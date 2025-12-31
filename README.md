@@ -41,9 +41,9 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 ---
 
 ## 🌐 Connect with Me
-- 💼 GitHub: https://github.com/yourusername
+- 💼 GitHub:https://github.com/rimiakter4
 - 🔗 LinkedIn: https://linkedin.com/in/yourprofile
-- 📧 Email: remiakter.dev@gmail.com
+- 📧 Email:
 - 📞 Phone: +8801XXXXXXXXX
 - 📍 Location: Dhaka, Bangladesh
 
