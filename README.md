@@ -53,15 +53,15 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimiakter4&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rimiakter4&show_icons=true&theme=radical&count_private=true" alt="rimiakter4's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimiakter4&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimiakter4&layout=compact&theme=radical" alt="rimiakter4's top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rimiakter4&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimiakter4&theme=radical" alt="rimiakter4's streak" />
 </p>
 ## 📊 GitHub Stats
 
