@@ -61,9 +61,9 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
-  <img src="https://streak-stats.demolab.com/?user=yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rimiakter4&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimiakter4&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=rimiakter4&theme=radical" />
 </p>
 
 ---
@@ -71,9 +71,12 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 ## 📌 Pinned Repositories
 
 ### 1️⃣ Germany Factory Client
-**Description:** Full-stack responsive web application for a Germent factory with role-based access for Admin, Manager, and User.  
-**Live Demo:** [Visit Client Site](https://your-client-site.netlify.app)  
-
+**Description:**  Full-stack responsive web application for a Germent factory with role-based access for Admin, Manager, and User.  
+**Live Demo:**  https://germents-factory.web.app/
+#### 🖥️ Project Preview
+<p align="center">
+  <img src"https://i.ibb.co.com/FLHvBq13/Screenshot-2025-12-31-095005.png" alt="Germany Factory Home Page" width="100%" style="border-radius: 10px;" />
+</p>
 **Technologies Used:**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,mongodb" alt="Client Tech"/>
