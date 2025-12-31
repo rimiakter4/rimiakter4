@@ -128,7 +128,7 @@ npm start
 
 ### 3️⃣ Travelease (Travel Management System)
 **Description:** A comprehensive travel management platform where users can explore tour packages, make bookings, and manage their travel plans seamlessly.  
-**Live Demo:** [Insert Your Live Link Here]
+**Live Demo:** https://assignment-10-travelease.web.app/
 #### 🖥️ Project Preview
 <p align="center">
   <img src="https://i.ibb.co.com/XNMTPm8/Screenshot-2025-12-31-153634.png" 
@@ -149,9 +149,44 @@ npm start
 - **Fully Responsive:** Optimized for mobile, tablet, and desktop  
 
 #### 💻 Installation
-```bash
+
 git clone https://github.com/rimiakter4/travelease-client.git
+
 cd travelease-client
+
+npm install
+
+npm start
+---
+
+### 4️⃣ GreenNeast Indoor Plant Store
+**Description:** Full-stack web application for an indoor plant store, allowing users to browse products, place orders, and manage inventory efficiently.  
+**Live Demo:** https://ph-9th-assignment.web.app/
+#### 🖥️ Project Preview
+<p align="center">
+  <img src="https://i.ibb.co.com/DP7fTJ5d/Screenshot-2025-12-31-154226.png" 
+       alt="Project Preview" 
+       width="50%" 
+       style="border-radius: 15px; border: 1px solid #ddd;" />
+</p>
+
+
+**Technologies Used:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,mongodb,nodejs,express" alt="GreenNeast Tech"/>
+</p>
+
+#### 🔹 Key Features
+- **Product Browsing:** View various indoor plants with details and prices  
+- **User Authentication:** Secure login and registration system  
+- **Order Management:** Add products to cart and place orders  
+- **Admin Dashboard:** Manage products, inventory, and orders  
+- **Responsive Design:** Optimized for mobile, tablet, and desktop  
+
+#### 💻 Installation
+```bash
+git clone https://github.com/rimiakter4/greenneast-store.git
+cd greenneast-store
 npm install
 npm start
 
