@@ -11,6 +11,15 @@
 <h3 align="center">Junior MERN Stack Web Developer</h3>
 
 ---
+## 🙋‍♀️ About Me
+
+<p align="justify" style="font-size:18px; line-height:1.6;">
+I am a Junior MERN Stack Web Developer with hands-on experience in building responsive and user-friendly full-stack web applications using MongoDB, React, and Node.js.  
+I started my web development journey through Programming Hero, where I gained practical experience building real-world projects.  
+Currently, I am pursuing my undergraduate studies in Computer Science and Engineering (CSE) at Uttara University.  
+I enjoy creating impactful web solutions and continuously improving my skills in backend development, especially with Express.js, while exploring new tools and technologies in the MERN ecosystem.  
+I am focused on improving my skills in Express.js and exploring new backend tools.
+</p>
 
 ## 🙋‍♀️ About Me
 
@@ -21,16 +30,7 @@ I enjoy creating impactful web solutions and continuously improving my skills in
 I am focused on improving my skills in Express.js and exploring new backend tools.
 
 ---
-## 🙋‍♀️ About Me
 
-<p align="left">
-  <h2> I am a passionate Junior MERN Stack Web Developer. </h2>
-  <h3> Building responsive and user-centric full-stack web applications is what I love to do. </h3>
-</p>
-
-I started my web development journey through **Programming Hero**, where I gained practical experience building real-world projects. Currently, I am pursuing my undergraduate studies in **Computer Science and Engineering (CSE)** at **Uttara University**.  
-
-I enjoy creating impactful web solutions and continuously improving my skills in backend development, especially with **Express.js**, while exploring new tools and technologies in the MERN ecosystem.
 
 ## 🚀 Current Activities
 - 🌱 Exploring **Next.js** and building modern frontend features  
