@@ -8,11 +8,22 @@
 </h3>
 
 ---
+### 📝 About Me
+I am a passionate **MERN Stack Developer** and a **Computer Science & Engineering (CSE)** student at **Uttara University**. My journey into the world of web development was fueled by **Programming Hero**, where I mastered the art of building scalable, real-world projects.
 
+- 💻 **Expertise:** Crafting seamless, responsive, and user-friendly full-stack web applications.
+- 🚀 **Background:** Hands-on experience with modern web technologies.
+- 🎯 **Current Focus:** Deep-diving into **Express.js** and exploring advanced backend architectures.
+
+---
 ## 🙋‍♀️ About Me
-I am a Computer Science and Engineering student at Uttara University and a passionate Frontend Web Developer.  
+## 🙋‍♀️ About Me
+## 🙋‍♀️ About Me
+I am currently studying Computer Science and Engineering (CSE) at Uttara University.  
+I have learned web development from Programming Hero and gained hands-on experience in building real-world projects.  
+I am a MERN Stack Web Developer who enjoys creating full-stack web applications using modern technologies.
 I love building responsive, user-friendly web applications using modern technologies.  
-Currently, I am focused on improving my skills in React and exploring new frontend tools.
+Currently, I am focused on improving my skills in Express.js and exploring new backend tools.
 
 ---
 
