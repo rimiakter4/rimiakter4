@@ -160,7 +160,7 @@ npm start
 ---
 
 ### 4️⃣ GreenNeast Indoor Plant Store
-**Description:** Full-stack web application for an indoor plant store, allowing users to browse products, place orders, and manage inventory efficiently.  
+**Description:**  web application for an indoor plant store, allowing users to browse products, place orders, and manage inventory efficiently.  
 **Live Demo:** https://ph-9th-assignment.web.app/
 #### 🖥️ Project Preview
 <p align="center">
@@ -178,9 +178,7 @@ npm start
 
 #### 🔹 Key Features
 - **Product Browsing:** View various indoor plants with details and prices  
-- **User Authentication:** Secure login and registration system  
-- **Order Management:** Add products to cart and place orders  
-- **Admin Dashboard:** Manage products, inventory, and orders  
+- **User Authentication:** Secure login and registration system   
 - **Responsive Design:** Optimized for mobile, tablet, and desktop  
 
 #### 💻 Installation
