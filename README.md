@@ -30,19 +30,19 @@
 
 ---
 
-### 🛠 Skills
+## 🛠 Skills
 
-#### 🎨 Frontend
+### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Skills"/>
 </p>
 
-#### ⚙️ Backend
+### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" width='400px'/>
 </p>
 
-#### 🛠 Tools & Platforms
+### 🛠 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools"/>
 </p>
