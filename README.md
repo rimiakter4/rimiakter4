@@ -50,8 +50,8 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 GitHub: [rimiakter4](https://github.com/rimiakter4)  
-- 🔗 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)  
+- 💼 GitHub: rimiakter4](https://github.com/rimiakter4)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/remi-akter
 - 📧 Email: rimia9941@gmail.com  
 - 📞 Phone: 01748806941  
 - 📍 Location: Dhaka, Bangladesh  
@@ -116,4 +116,33 @@ cd germany-factory-server
 npm install
 npm start
 
+আপনার প্রোফাইলের README ফাইলের শেষে Travelease প্রজেক্টটি সুন্দরভাবে যুক্ত করে নিচে দেওয়া হলো। আপনি এটি কপি করে আপনার আগের কোডের একদম শেষে বসিয়ে দিলেই হবে:
 
+3️⃣ Travelease (Travel Management System)
+Description: A comprehensive travel management platform where users can explore tour packages, make bookings, and manage their travel plans seamlessly.
+
+Live Demo: [Insert Your Live Link Here]
+
+🖥️ Project Preview
+<p align="center"> <img src="https://via.placeholder.com/600x300?text=Travelease+Project+Preview" alt="Travelease Preview" width="50%" style="border-radius: 15px; border: 1px solid #ddd;" /> </p>
+
+Technologies Used: <p align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,mongodb,firebase" alt="Travelease Tech"/>
+
+</p>
+
+🔹 Key Features
+User Authentication: Secure login and registration system using Firebase.
+
+Dynamic Tour Packages: Real-time data fetching from MongoDB to display available trips.
+
+Booking System: User-friendly interface for booking tours and managing personal itineraries.
+
+Fully Responsive: Optimized UI for a seamless experience on mobile, tablet, and desktop.
+
+💻 Installation
+Bash
+
+git clone https://github.com/rimiakter4/travelease-client.git
+cd travelease-client
+npm install
+npm start
