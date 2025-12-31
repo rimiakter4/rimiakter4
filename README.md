@@ -75,7 +75,7 @@ I am focused on improving my skills in Express.js and exploring new backend tool
 **Live Demo:**  https://germents-factory.web.app/
 #### 🖥️ Project Preview
 <p align="center">
-  <img src"https://i.ibb.co.com/FLHvBq13/Screenshot-2025-12-31-095005.png" alt="Germany Factory Home Page" width="100%" style="border-radius: 10px;" />
+  <img src"https://i.ibb.co.com/FLHvBq13/Screenshot-2025-12-31-095005.png"  />
 </p>
 **Technologies Used:**  
 <p align="center">
