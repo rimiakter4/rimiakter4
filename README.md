@@ -65,12 +65,19 @@
 </p>
 
 ---
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimiakter4&theme=radical&hide_border=false" alt="GitHub Streak" />
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimiakter4&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rimiakter4&show_icons=true&theme=radical&count_private=true" alt="Remi's GitHub Stats" />
+  
+  <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rimiakter4&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub Stats" /> </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimiakter4&theme=radical" alt="GitHub Streak" />
 
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimiakter4&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ## 📌 Pinned Repositories
 
 ### 1️⃣ Germany Factory Client
