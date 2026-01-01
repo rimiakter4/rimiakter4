@@ -65,15 +65,7 @@
 </p>
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimiakter4&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimiakter4&theme=radical&cache_seconds=1800" alt="GitHub Streak" />
-</p>
 ## 📌 Pinned Repositories
 
 ### 1️⃣ Germany Factory Client
