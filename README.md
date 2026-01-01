@@ -65,6 +65,11 @@
 </p>
 
 ---
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimiakter4&theme=radical&hide_border=false" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimiakter4&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=rimiakter4&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub Stats" /> </p>
 
 ## 📌 Pinned Repositories
 
