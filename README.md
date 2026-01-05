@@ -183,7 +183,7 @@ npm start
 
 #### 💻 Installation
 ```bash
-git clone https://github.com/rimiakter4/greenneast-store.git
+git clone https://github.com/rimiakter4/ph-9th-Assignmnet
 cd greenneast-store
 npm install
 npm start
